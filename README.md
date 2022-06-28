@@ -5,3 +5,5 @@ Estudo de caso apresentado no IV SIMPÓSIO DE ENGENHARIA DE PRODUÇÃO (https://
 Problema original disponível em: https://www.mipwise.com/use-cases/woodler
 
 Dados utilizados disponíveis em: https://github.com/mipwise/use-cases/tree/main/woodler
+
+Observação: código desenvolvido em Python. Sugere-se o uso do Google Collaboratory.
